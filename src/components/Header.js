@@ -11,7 +11,7 @@ function Header({title, onAdd, showAdd}) {
   )
 }
 Header.defaultProps={
-    title:'Task Tracker'
+    title:'Task Tracker UI'
 }
 Header.propTypes={
     title: PropTypes.string.isRequired
